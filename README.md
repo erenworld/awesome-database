@@ -4,6 +4,7 @@ A curated list of awesome database stories.
 
 | Date       | Summary w/ link | Author |
 |------------|-----------------|--------|
-| 2024/12/22 | [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future/) | [@avinassh](https://github.com/avinassh) |
-| 2025/11/13 | [35% Faster Than The Filesystem](https://sqlite.org/fasterthanfs.html)                           | [@sqlite](https://github.com/sqlite)     |
-| 2025/01/09 | [Database Sharding](https://planetscale.com/blog/database-sharding)                              | [@bddicken](https://github.com/bddicken) |
+| 2024/12/22 | [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future/) | [@avinassh](https://github.com/avinassh)           |
+| 2025/11/13 | [35% Faster Than The Filesystem](https://sqlite.org/fasterthanfs.html)                           | [@sqlite](https://github.com/sqlite)               |
+| 2025/11/13 | [How MySQL Avoids Performance Hits from Table Scans](https://arpitbhayani.me/blogs/midpoint-insertion-caching-strategy)                               | [@arpitbbhayani](https://github.com/arpitbbhayani) |
+| 2025/01/09 | [Database Sharding](https://planetscale.com/blog/database-sharding)                              | [@bddicken](https://github.com/bddicken)           |
