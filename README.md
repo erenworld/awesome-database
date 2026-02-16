@@ -4,4 +4,4 @@ A curated list of awesome database stories.
 
 | Date | Summary w/ link |
 | --- | --- |
-| 2024/12/22 | [How bloom filters made SQLite 10x faster]([https://pgdog.dev/blog/replace-protobuf-with-rust](https://avi.im/blag/2024/sqlite-past-present-future/) |
+| 2024/12/22 | [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future/) |
