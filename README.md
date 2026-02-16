@@ -2,6 +2,6 @@
 
 A curated list of awesome database stories.
 
-| Date | Summary w/ link |
+| Date | Summary w/ link | Author
 | --- | --- |
-| 2024/12/22 | [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future/) |
+| 2024/12/22 | [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future/) | @avinassh
