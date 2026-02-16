@@ -1,2 +1,7 @@
-# awesome-database
-⚡️ A curated list of awesome database stories
+# ⚡️ Awesome Database [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A curated list of awesome database stories.
+
+| Date | Summary w/ link |
+| --- | --- |
+| 2024/12/22 | [How bloom filters made SQLite 10x faster]([https://pgdog.dev/blog/replace-protobuf-with-rust](https://avi.im/blag/2024/sqlite-past-present-future/) |
