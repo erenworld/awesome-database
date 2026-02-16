@@ -8,4 +8,3 @@ A curated list of awesome database stories.
 | 2025/11/13 | ![Storage](https://img.shields.io/badge/Storage-green) | [35% Faster Than The Filesystem](https://sqlite.org/fasterthanfs.html) | [@sqlite](https://github.com/sqlite) |
 | 2025/11/13 | ![Caching](https://img.shields.io/badge/Caching-orange) | [How MySQL Avoids Performance Hits from Table Scans](https://arpitbhayani.me/blogs/midpoint-insertion-caching-strategy) | [@arpitbbhayani](https://github.com/arpitbbhayani) |
 | 2025/01/09 | ![Architecture](https://img.shields.io/badge/Architecture-purple) | [Database Sharding](https://planetscale.com/blog/database-sharding) | [@bddicken](https://github.com/bddicken) |
-|
