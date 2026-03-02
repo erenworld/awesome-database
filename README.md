@@ -9,5 +9,6 @@ A curated list of awesome database stories.
 | 2025/11/13 | [How MySQL Avoids Performance Hits from Table Scans](https://arpitbhayani.me/blogs/midpoint-insertion-caching-strategy) | [@arpitbbhayani](https://github.com/arpitbbhayani) |
 | 2025/01/09 | [Database Sharding](https://planetscale.com/blog/database-sharding) | [@bddicken](https://github.com/bddicken) |
 | 2024/14/12 | [Faster SQLite](https://avi.im/blag/2024/faster-sqlite) | [@avinassh](https://github.com/avinassh) |
+| 2026/22/01 | [Scaling PostgreSQL to power 800 million ChatGPT users](https://openai.com/index/scaling-postgresql) | [Bohan Zhang](https://bohanzhang.me) |
 
 
