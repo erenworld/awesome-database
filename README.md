@@ -11,5 +11,7 @@ A curated list of awesome database stories.
 | 2024/14/12 | [Faster SQLite](https://avi.im/blag/2024/faster-sqlite) | [@avinassh](https://github.com/avinassh) |
 | 2026/22/01 | [Scaling PostgreSQL to power 800 million ChatGPT users](https://openai.com/index/scaling-postgresql) | [Bohan Zhang](https://bohanzhang.me) |
 | 2024/11/12 | [A simple guide to ClickHouse query optimization: part 1](https://clickhouse.com/blog/a-simple-guide-to-clickhouse-query-optimization-part-1) | [@lio-p](https://github.com/lio-p) |
+| 2021/25/03 | [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/) | [antoz](https://antonz.org/) |
+
 
 
