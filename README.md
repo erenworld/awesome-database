@@ -12,6 +12,7 @@ A curated list of awesome database stories.
 | 2026/22/01 | [Scaling PostgreSQL to power 800 million ChatGPT users](https://openai.com/index/scaling-postgresql) | [Bohan Zhang](https://bohanzhang.me) |
 | 2024/11/12 | [A simple guide to ClickHouse query optimization: part 1](https://clickhouse.com/blog/a-simple-guide-to-clickhouse-query-optimization-part-1) | [@lio-p](https://github.com/lio-p) |
 | 2021/25/03 | [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/) | [antoz](https://antonz.org/) |
+| 2024/06/06 | [how Stripe’s document databases supported 99.999% uptime with zero-downtime data migrations](https://stripe.com/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations) | [Jimmy Morzaria](https://www.linkedin.com/in/jimmy-morzaria-3849a150/) |
 
 
 
