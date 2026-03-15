@@ -15,7 +15,8 @@ A curated list of awesome database stories.
 | 2024/06/06 | [how Stripe’s document databases supported 99.999% uptime with zero-downtime data migrations](https://stripe.com/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations) | [Jimmy Morzaria](https://www.linkedin.com/in/jimmy-morzaria-3849a150/) |
 | 2021/06/10 | [Lessons learned from sharding Postgres at Notion](https://www.notion.com/blog/sharding-postgres-at-notion) | [Garrett Fidalgo](https://fidalgo.io/) |
 | 2021/14/12 | [How PayPal Uses Real-time Graph Database and Graph Analysis to Fight Fraud](https://medium.com/paypal-tech/how-paypal-uses-real-time-graph-database-and-graph-analysis-to-fight-fraud-96a2b918619a) | [Quinn Zuo](https://notfound.io/) |
-
+| 2017/01/13 | [How Discord Stores Billions of Messages](https://discord.com/blog/how-discord-stores-billions-of-messages) | [Stanislav Vishnevskiy](https://www.linkedin.com/in/svishnevskiy/) |
+| 2023/03/06 | [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages) | [Bo Ingram](https://www.boingram.com/) |
 
 
 
