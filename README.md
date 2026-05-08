@@ -4,6 +4,8 @@ A curated list of awesome database stories.
 
 | Date       | Summary w/ link | Author |
 |------------|-----------------|--------|
+| 2026/02/13 | [How We Optimized Top K in Postgres](https://www.paradedb.com/blog/optimizing-top-k#how-we-optimized-top-k-in-postgres) | [Ming Ying](https://www.linkedin.com/in/ming-ying/) |
+| 2026/03/05 | [How Pinecone Safely Deletes Billions of Objects at Scale](https://www.pinecone.io/blog/janitor/) | [Hirad](https://hirad.codes/) |
 | 2024/12/22 | [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future/) | [@avinassh](https://github.com/avinassh) |
 | 2025/11/13 | [35% Faster Than The Filesystem](https://sqlite.org/fasterthanfs.html) | [@sqlite](https://github.com/sqlite) |
 | 2025/11/13 | [How MySQL Avoids Performance Hits from Table Scans](https://arpitbhayani.me/blogs/midpoint-insertion-caching-strategy) | [@arpitbbhayani](https://github.com/arpitbbhayani) |
