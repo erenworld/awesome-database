@@ -22,6 +22,6 @@ A curated list of awesome database stories.
 | 2021/06/20 | [What is the sorting algorithm behind ORDER BY query in MySQL?](https://www.pankajtanwar.in/blog/what-is-the-sorting-algorithm-behind-order-by-query-in-mysql) | [Pankaj Tanwar](https://www.pankajtanwar.in/) |
 | 2025/06/30 | [We Made Postgres Writes Faster, but it Broke Replication](https://www.paradedb.com/blog/lsm-trees-in-postgres) | [Stu Hood](https://www.linkedin.com/in/stuhood/) and [Ming Ying](https://www.linkedin.com/in/ming-ying/) |
 | 2025/08/04 | [Evolving our real-time timeseries storage again: Built in Rust for performance at scale](https://www.datadoghq.com/blog/engineering/rust-timeseries-engine/) | Khayyam Guliyev, Duarte Nunes, Ming Chen, Justin Jaffray |
-| 2025/11/04 | [How we built a low-latency, multi-tenant data replication platform](https://www.datadoghq.com/blog/engineering/cdc-replication-search/) | [Sanketh Balakrishna](https://www.linkedin.com/in/sanketh-balakrishna/) |
+| 2025/11/04 | [How we built a low-latency, multi-tenant data replication platform](https://www.datadoghq.com/blog/engineering/cdc-replication-search/) | [Sanketh Balakrishna](https://www.linkedin.com/in/sanketh1024/) |
 
 
