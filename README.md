@@ -24,5 +24,10 @@ A curated list of awesome database stories.
 | 2025/08/04 | [Evolving our real-time timeseries storage again: Built in Rust for performance at scale](https://www.datadoghq.com/blog/engineering/rust-timeseries-engine/) | Khayyam Guliyev, Duarte Nunes, Ming Chen, Justin Jaffray |
 | 2025/11/04 | [How we built a low-latency, multi-tenant data replication platform](https://www.datadoghq.com/blog/engineering/cdc-replication-search/) | [Sanketh Balakrishna](https://www.linkedin.com/in/sanketh1024/) |
 | 2026/05/07 | [Everyone gets faster writes: We turned off FPW's in Neon](https://neon.com/blog/turning-off-fpw-for-faster-writes) | David Wein and Vlad Lazar |
-
+| 2026/02/25 | [Postgres JSONB Columns and TOAST: A Performance Guide](https://www.snowflake.com/en/blog/engineering/postgres-jsonb-columns-and-toast/) | [Paul Ramsey](https://www.snowflake.com/en/blog/authors/paul-ramsey/) |
+| 2016/07/26 | [Why Uber Engineering Switched from Postgres to MySQL](https://www.uber.com/us/en/blog/postgres-to-mysql-migration/) | Evan Klitzke |
+| 2023/06/07 | [Yes, PostgreSQL Has Problems. But We’re Sticking With It!](https://www.cs.cmu.edu/~pavlo/blog/2023/06/yes-postgresql-has-problems-but-were-sticking-with-it.html) | [Andy Pavlo](https://www.cs.cmu.edu/~pavlo/) and [Bohan Zhang](https://bohanzhang.me) |
+| 2024/12/17 | [How we built a web-scale vector database](https://exa.ai/blog/building-web-scale-vector-db) | [The Exa Team](https://exa.ai) |
+| 2025/09/01 | [1000x: The Power of an Interface for Performance by Joran Dirk Greef](https://www.youtube.com/watch?v=yKgfk8lTQuE&t=101s) | Joran Dirk Greef |
+| 2026/05/21 | [B-TREE versus Row Heap. Which database has the better engine?](https://www.youtube.com/watch?v=TiQNjpMlCmU) | Ben Dicken |
 
