@@ -23,5 +23,6 @@ A curated list of awesome database stories.
 | 2025/06/30 | [We Made Postgres Writes Faster, but it Broke Replication](https://www.paradedb.com/blog/lsm-trees-in-postgres) | [Stu Hood](https://www.linkedin.com/in/stuhood/) and [Ming Ying](https://www.linkedin.com/in/ming-ying/) |
 | 2025/08/04 | [Evolving our real-time timeseries storage again: Built in Rust for performance at scale](https://www.datadoghq.com/blog/engineering/rust-timeseries-engine/) | Khayyam Guliyev, Duarte Nunes, Ming Chen, Justin Jaffray |
 | 2025/11/04 | [How we built a low-latency, multi-tenant data replication platform](https://www.datadoghq.com/blog/engineering/cdc-replication-search/) | [Sanketh Balakrishna](https://www.linkedin.com/in/sanketh1024/) |
+| 2026/05/07 | [Everyone gets faster writes: We turned off FPW's in Neon](https://neon.com/blog/turning-off-fpw-for-faster-writes) | David Wein and Vlad Lazar |
 
 
