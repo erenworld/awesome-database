@@ -1,6 +1,6 @@
 # ⚡️ Awesome Database [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Feel free to open an issue if you'd like to share an interesting story!
+> Feel free to open a PR if you'd like to share an interesting story!
 
 | Date       | Summary w/ link | Author |
 |------------|-----------------|--------|
