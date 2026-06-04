@@ -1,5 +1,7 @@
 # ⚡️ Awesome Database [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+> Feel free to open an issue if you'd like to share an interesting story!
+
 | Date       | Summary w/ link | Author |
 |------------|-----------------|--------|
 | 2026-02-13 | [How We Optimized Top K in Postgres](https://www.paradedb.com/blog/optimizing-top-k#how-we-optimized-top-k-in-postgres) | [Ming Ying](https://www.linkedin.com/in/ming-ying/) |
