@@ -30,3 +30,5 @@
 | 2024-12-17 | [How we built a web-scale vector database](https://exa.ai/blog/building-web-scale-vector-db) | [The Exa Team](https://exa.ai) |
 | 2025-09-01 | [1000x: The Power of an Interface for Performance by Joran Dirk Greef](https://www.youtube.com/watch?v=yKgfk8lTQuE&t=101s) | Joran Dirk Greef |
 | 2026-05-21 | [B-TREE versus Row Heap. Which database has the better engine?](https://www.youtube.com/watch?v=TiQNjpMlCmU) | Ben Dicken |
+| 2023-04-04 | [The growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/) | Tim Liang |
+| 2024-03-15 | [How Figma built DBProxy for sharding Postgres](https://pganalyze.com/blog/5mins-postgres-figma-dbproxy-sharding-postgres) | Lukas Fittl |
