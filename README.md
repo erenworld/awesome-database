@@ -32,3 +32,5 @@
 | 2026-05-21 | [B-TREE versus Row Heap. Which database has the better engine?](https://www.youtube.com/watch?v=TiQNjpMlCmU) | Ben Dicken |
 | 2023-04-04 | [The growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/) | Tim Liang |
 | 2024-03-15 | [How Figma built DBProxy for sharding Postgres](https://pganalyze.com/blog/5mins-postgres-figma-dbproxy-sharding-postgres) | Lukas Fittl |
+| 2026-10-19 | [PostgreSQL as a graph database, part 0: intro, graphs, graph databases](https://www.data-bene.io/en/blog/postgresql-as-a-graph-database/) | Ayoub Kazar |
+| 2026-10-21 | [PostgreSQL as a graph database, part 1: SQL/PGQ in PostgreSQL](https://www.data-bene.io/en/blog/postgresql-as-a-graph-database-part-1/) | Ayoub Kazar |
