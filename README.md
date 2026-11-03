@@ -34,3 +34,4 @@
 | 2024-03-15 | [How Figma built DBProxy for sharding Postgres](https://pganalyze.com/blog/5mins-postgres-figma-dbproxy-sharding-postgres) | Lukas Fittl |
 | 2026-10-19 | [PostgreSQL as a graph database, part 0: intro, graphs, graph databases](https://www.data-bene.io/en/blog/postgresql-as-a-graph-database/) | Ayoub Kazar |
 | 2026-10-21 | [PostgreSQL as a graph database, part 1: SQL/PGQ in PostgreSQL](https://www.data-bene.io/en/blog/postgresql-as-a-graph-database-part-1/) | Ayoub Kazar |
+| 2024-03-14 | [How Figma's databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/) | Sammy Steele |
